@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: todo
-          image: adityavishwakarma31/django-todo-app:3
+          image: adityavishwakarma31/django-todo-app:54
           ports:
             - containerPort: 8000
           resources:
